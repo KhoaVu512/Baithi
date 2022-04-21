@@ -21,7 +21,6 @@ function avgArr(arr) {
 
     }return avg;
 }
-alert(`mang tren co trung binh cong la ${avgArr()}`)
 
 
 avgArr()
